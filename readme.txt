@@ -5,4 +5,5 @@ Create a new branch is quick and simple.
 Create a develop branch with Fast forward merge (default).
 Merge develop branch with --no-ff -m.
 With stash.
+Without commit.
 
